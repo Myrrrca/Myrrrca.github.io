@@ -40,13 +40,13 @@ body{
 
 .wrapper a{
 	text-decoration: none;
-	font-family: 'Sriracha', cursive;
+	font-family: "Times New Roman", cursive;
 	color: rgb(221, 221, 221);
 }
 
 .wrapper p{
 	text-decoration: none;
-	font-family: 'Sriracha', cursive;
+	font-family: "Times New Roman", cursive;
 	color: rgb(221, 221, 221);
 	margin-left: -60px;
 	font-size: 28px;
@@ -98,7 +98,7 @@ body{
 	display: flex;
 	padding-top: 50px;
 	justify-content: center;
-	font-family: 'Sriracha', cursive;
+	font-family: "Times New Roman", cursive;
 	font-size: 50px;
 }
 
@@ -107,7 +107,7 @@ body{
 	color: rgb(54, 52, 48);
 	margin-left: 15%;
 	margin-top: 150px;
-	font-family: 'Sriracha', cursive;
+	font-family: "Times New Roman", cursive;
 	font-size: 20px;
 }
 
@@ -144,7 +144,7 @@ footer ul{
 	display: flex;
 	justify-content: space-between;
 	width: 700px;
-	font-family: 'Sriracha', cursive;
+	font-family: "Times New Roman", cursive;
 	color: rgb(221, 221, 221);
 	font-size: 18px;
 	padding-top: 30px;
@@ -156,7 +156,7 @@ footer ul{
 footer h3{
 	margin: 0;
 	padding-left: 30%;
-	font-family: 'Sriracha', cursive;
+	font-family: "Times New Roman", cursive;
 	color: rgb(221, 221, 221);
 	font-size: 18px;
 	display: flex;
